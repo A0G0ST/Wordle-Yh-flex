@@ -1,5 +1,1 @@
-- Skapa din egen branch
-- gör koden bättre/optimizera den/ mer läsbar etc
-- kritisera & gör en code review
-- boka ett möte med läraren & presentera
-- skicka in en rapport
+Avancerad-java-August-Dahlstrom-Code-review--Github-branching
